@@ -1,0 +1,10 @@
+starX WORKSPACE — EXPENSE POLICY (DEMO)
+Version: 1.0
+
+Employees must provide a clear business purpose for each expense claim.
+Expenses above ₹7,500 require manager approval before reimbursement.
+Hotel claims must identify the dates and business purpose of the stay.
+The AI employee may investigate, retrieve documents, and prepare a proposed action without approval.
+The AI employee must not submit a write action without explicit human confirmation.
+After submitting a request, the AI employee must revisit the company workspace and independently verify the resulting status.
+The final report must include the expense ID, relevant policy evidence, observed status, and any errors.
